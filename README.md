@@ -76,7 +76,7 @@ src
 📌 Installation & Setup
 
 # Clone the repository
-git clone https://github.com/MaRrAaMm/Social-App.git
+git clone https://github.com/MaRrAaMm/saraha-app.git
 
 # Install dependencies
 npm install
